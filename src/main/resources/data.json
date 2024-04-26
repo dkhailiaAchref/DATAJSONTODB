@@ -1,0 +1,125 @@
+{
+  "request": {
+    "requestName": "request name",
+    "requestNumber": "1234",
+    "projectNumber": "1234",
+    "clientName": "sephora",
+    "requestedUser": "parfumer for sephora , veronique G",
+    "documentation": "",
+    "comments": "",
+    "history": "",
+    "status": "",
+    "description": "",
+    "assignedTo": "aaaaa",
+    "productionMode": "when available",
+    "notificationType": "all request change",
+    "formula": {
+      "formulaName": "formula1",
+      "description": "",
+      "stockSystemLocation": "remstar 2235",
+      "realTimeLocation": "since 02/02/2024",
+      "stockStatus": "orange",
+      "quantityLeft": "xxxx , on 03/02/2024",
+      "requestedQuantity": "xxxx , on 03/02/2024",
+      "lastCheckout": "REMi, on 03/02/2024",
+      "lastCheckin": "ygor , on 03/02/2024",
+      "service": {
+        "serviceType": "wash test",
+        "serviceCategory": "miele machine",
+        "serviceName": "machine test",
+        "cycle": 1,
+        "dayInterval": "NA",
+        "result": "dry",
+        "bookedEquipment": "washing machine",
+        "bookingDate": "12/03/2024",
+        "systemRank": 1,
+        "availabilityStatus": "confirmed",
+        "ingredientsMeasurements": [
+          {
+            "ingredients": [
+              {
+                "ingredientType": "clothing",
+                "ingredientName": "tee shirt",
+                "ingredientMaterial": "coton",
+                "ingredientSize": "XL",
+                "ingredientQuantity": "1"
+              },
+              {
+                "ingredientType": "clothing",
+                "ingredientName": "towel",
+                "ingredientMaterial": "silk",
+                "ingredientSize": "L",
+                "ingredientQuantity": "2"
+              }
+            ],
+            "measurement": {
+              "measurementName": "conditions measurement 1",
+              "olfactiveCarachteristics": "lower ipsum",
+              "fragranceIntensity": "lower ipsum",
+              "baseOudourCoverage": "lower ipsum",
+              "physicalAspect": "lower ipsum",
+              "finaldiscoloration": "lower ipsum",
+              "personalized": "xxxxxxx"
+            }
+          }
+        ]
+      }
+    },
+    "labelManagement": {
+      "labelManagementName": "label #545534 client name ",
+      "clientName": "sephora",
+      "applicationType": "smartlab",
+      "fragrance": {
+        "fragranceCode": "fragranceCode",
+        "fragranceName": "fragranceName",
+        "fragranceBatch": "fragranceBatch",
+        "fragranceDosage": "10%",
+        "beginDateOfFragrance": "12/12/2019",
+        "endDateOfFragrance": "23/03/2025"
+      },
+      "base": {
+        "baseName": "baseName",
+        "baseCode": "baseCode",
+        "baseBatch": "baseBatch",
+        "beginDateOfBase": "12/12/2019",
+        "endDateOfBase": "23/03/2025"
+      },
+      "packaging": {
+        "packagingCode": "packagingCode",
+        "packagingName": "packagingName",
+        "Additives": "encaps,actives,etc"
+      }
+    },
+    "shippingManagement": {
+      "shippingManagementName": "shipping management name ",
+      "totalApplication": "5 samples",
+      "samplesSummaries": [
+        {
+          "sendTo": "user to send",
+          "samplesNumbers": "2",
+          "description": "NA"
+        },
+        {
+          "sendTo": "user to send",
+          "samplesNumbers": "3",
+          "description": "NA"
+        },
+        {
+          "sendTo": "user to send",
+          "samplesNumbers": "3",
+          "description": "NA"
+        },
+        {
+          "sendTo": "user to send",
+          "samplesNumbers": "3",
+          "description": "NA"
+        },
+        {
+          "sendTo": "user to send",
+          "samplesNumbers": 3,
+          "description": "NA"
+        }
+      ]
+    }
+  }
+}
